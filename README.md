@@ -1,0 +1,2 @@
+# PhotometryAndPeriodogram
+程序中整合了一套符合当前科研实践实际的孔径测光及时变信号分析流程
